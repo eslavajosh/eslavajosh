@@ -25,6 +25,6 @@
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" /></a> 
    </div>
-   <div>Software Engineer based in San Diego, CA.  </div>
+   <div>Software Engineer based in Las Vegas, CA.  </div>
  
 </div>
